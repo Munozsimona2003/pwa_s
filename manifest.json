@@ -1,6 +1,6 @@
 {
     "name": "Aplicación web progresiva",
-    "short_name":"Diego Martínez",
+    "short_name":"Simona Muñoz",
     "description": "practica de la asignatura de apicaciones web",
     "background_color": "#FFF",
     "theme_color": "#FB314E",
@@ -11,9 +11,9 @@
     "lang": "es-ES",
     "icons": [
         {
-            "src": "img/favicon_1024x1024.png",
+            "src": "img/favicon1.png",
             "sizes": "1024x1024",
-            "type": "image/png"
+            "type": "img/png"
 
         },
         {
